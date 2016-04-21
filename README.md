@@ -9,4 +9,5 @@ I'm making an edit to this file that I've forked for the Pulling Homework.
 
 I'm making a conflicting edit.
 
-Second chance at the edit .
+
+Second chance at the edit . This is my second chance at the conflicting edit.
